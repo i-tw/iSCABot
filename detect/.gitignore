@@ -1,0 +1,7 @@
+__pycache__/
+cpd2pandas.log
+llvm2cpg.log
+source2llvm.log
+analyse.log
+tmp/
+workspace/
